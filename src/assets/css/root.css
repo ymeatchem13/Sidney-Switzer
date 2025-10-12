@@ -62,6 +62,7 @@
     font-size: 1rem;
     line-height: 3.125em;
     font-weight: bold;
+    border-radius: 0.25rem;
     color: #000;
     transition: color 0.3s;
     transition-delay: 0.1s;
@@ -133,6 +134,8 @@
   h6 {
     margin: 0;
     color: var(--headerColor);
+    font-family: "Georgia", "Times New Roman", serif;
+    font-weight: 700;
   }
   p,
   li,
