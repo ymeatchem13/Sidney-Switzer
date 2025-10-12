@@ -15,7 +15,6 @@
     font-family: "Roboto", "Arial", sans-serif;
     /* Centers button */
     text-align: center;
-    height: 90vh;
   }
   #hero .cs-picture {
     z-index: -2;
