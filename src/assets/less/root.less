@@ -8,7 +8,7 @@
 @media only screen and (min-width: 0rem) {
     // Website colors
     :root {
-        --primary: #ffba19;
+        --primary: #e79895; //#ffba19;
         --primaryLight: #ffd675;
         --secondary: #001f3f;
         --secondaryLight: #001f3f;
@@ -65,18 +65,18 @@
         z-index: 1;
         position: relative;
         display: inline-block;
-        background-color: var(--primary);
+        background: linear-gradient(135deg, hsl(340 60% 75%), hsl(15 70% 70%));
         width: auto;
         padding: 0 (30/16rem);
         text-decoration: none;
-        text-transform: uppercase;
+        text-transform: capitalize;
         font-size: (16/16rem);
         line-height: (50/16em);
         font-weight: bold;
-        border-radius: (4/16rem);
+        border-radius: (16/16rem);
 
         // Transition Properties
-        color: #000;
+        color: #fff;
         transition: color 0.3s;
         transition-delay: 0.1s;
         text-align: center;
@@ -85,6 +85,7 @@
             color: #fff;
             &:before {
                 width: 100%;
+                border-radius: (16/16rem);
             }
         }
 
@@ -98,6 +99,7 @@
             display: block;
             background-color: #000;
             height: 100%;
+            border-radius: (16/16rem);
 
             //Transition properties
             width: 0;
@@ -1245,7 +1247,7 @@
                 display: inline-block;
                 margin: auto;
                 margin-bottom: (30/16em);
-                height: (32/16em);
+                height: (100/16em);
                 width: auto;
                 text-align: center;
 
@@ -1400,7 +1402,7 @@
 
             .logo {
                 margin-left: 0;
-                height: (40/16rem);
+                height: (100/16rem);
                 text-align: left;
             }
 

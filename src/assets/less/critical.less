@@ -87,7 +87,9 @@
             align-items: flex-start;
             margin: auto;
             /* 60px - 220px */
-            margin-bottom: clamp(3.75em, 15.5vw, 13.75em);
+            margin-top: 6.25em;
+            margin-bottom: 0em;
+            // margin-bottom: clamp(3.75em, 15.5vw, 13.75em);
             /* 464px - 562px */
             max-width: clamp(29em, 60vw, 35.125em);
             width: 80vw;
@@ -141,6 +143,7 @@
             line-height: clamp(2.875em, 5.5vw, 3.5em);
             font-weight: 700;
             color: #fff;
+            border-radius: (16/16rem);
 
             .cs-img {
                 display: block;
@@ -163,11 +166,13 @@
                 background: #000;
                 transition: transform 0.3s;
                 transform-origin: left;
+                border-radius: (16/16rem);
             }
 
             &:hover {
                 &:before {
                     transform: scaleX(1);
+                    border-radius: (16/16rem);
                 }
             }
         }
