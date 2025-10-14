@@ -40,7 +40,7 @@
     /* 40px - 48px */
     margin-bottom: clamp(2.5rem, 6.3vw, 3rem);
     /* 404px - 522px */
-    max-width: clamp(25.25rem, 30vw, 32.625rem);
+    max-width: none;
     text-align: left;
   }
   #cs-contact #cs-form {
