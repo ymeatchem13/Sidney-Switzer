@@ -1,7 +1,7 @@
 ---
-title: God Moves, Even in the Waiting Season
+title: God Moves, Even in the Waiting Season | Sidney Switzer
 url: god-moves-even-in-the-waiting-season
-description: God Moves, Even in the Waiting Season
+description: Discover how God works even when life feels stagnant. Sidney Switzer shares insights on trusting God's timing during seasons of waiting and uncertainty.
 author: Sidney Switzer
 date: 2025-04-28T07:15:00.000-04:00
 tags:

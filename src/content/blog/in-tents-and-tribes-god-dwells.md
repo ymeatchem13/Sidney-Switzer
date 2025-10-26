@@ -1,7 +1,7 @@
 ---
-title: In Tents and Tribes, God Dwells
+title: In Tents and Tribes, God Dwells - Ethiopia | Sidney Switzer
 url: in-tents-and-tribes-god-dwells
-description: In Tents and Tribes, God Dwells
+description: Sidney Switzer shares stories from Ethiopia's Kara and Hamer tribes, including Monti's miraculous healing and discipleship training in extreme conditions.
 author: Sidney Switzer
 date: 2025-01-24T12:00:00.000-05:00
 tags:

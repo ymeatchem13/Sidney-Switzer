@@ -1,7 +1,7 @@
 ---
-title: Goodbye for Now, Ethiopia
+title: Goodbye for Now, Ethiopia - Mission Journey | Sidney Switzer
 url: goodbye-for-now-ethiopia
-description: Goodbye for Now, Ethiopia
+description: Sidney Switzer reflects on her mission season across 11 Ethiopian cities. Discover stories of faith, friendships, and how saying yes to Jesus transforms lives.
 author: Sidney Switzer
 date: 2025-02-06T14:30:00.000-05:00
 tags:

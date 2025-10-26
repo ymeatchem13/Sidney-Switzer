@@ -1,7 +1,7 @@
 ---
-title: "Ruach, Kavod, and the Call: My Journey Into Deeper Faith and Missions"
+title: "Ruach, Kavod & the Call: Deeper Faith | Sidney Switzer"
 url: ruach-kavod-and-the-call
-description: "Ruach, Kavod, and the Call: My Journey Into Deeper Faith and Missions"
+description: After 8 weeks in Germany DTS, Sidney Switzer shares lessons on the Holy Spirit, Hebrew words Ruach and Kavod, faith requiring action, and mission preparation.
 author: Sidney Switzer
 date: 2024-11-16T14:00:00.000-05:00
 tags:

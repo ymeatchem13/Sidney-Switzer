@@ -1,7 +1,7 @@
 ---
-title: "Not My Words, But Yours: Preaching by the Power of the Holy Spirit "
+title: Trusting God to Speak Through Me | Sidney Switzer
 url: not-my-words-but-yours
-description: "Not My Words, But Yours: Preaching by the Power of the Holy Spirit "
+description: Sidney Switzer shares her first 90-minute sermon experience in Ethiopia. Discover how the Holy Spirit took over when notes ran out and God moved powerfully.
 author: Sidney Switzer
 date: 2024-12-08T20:00:00.000-05:00
 tags:

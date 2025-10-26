@@ -1,7 +1,7 @@
 ---
-title: "Forgiveness and Friendships: Letting Go to Draw Closer to God"
+title: Forgiveness & Friendships in Germany | Sidney Switzer
 url: forgiveness-and-friendships
-description: "Forgiveness and Friendships: Letting Go to Draw Closer to God"
+description: Sidney Switzer explores forgiveness and healthy relationships in Germany. Learn how to release past hurts, invite God into healing, and choose who draws you closer to Him.
 author: Sidney Switzer
 date: 2024-10-12T08:00:00.000-04:00
 tags:
