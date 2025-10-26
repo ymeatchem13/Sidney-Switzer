@@ -173,7 +173,11 @@
     font-size: 100%;
   }
   #int-hero h1 {
+    font-size: 3.75rem;
+  }
+  #int-hero h1.post {
     font-size: 2.5rem;
+    max-width: none;
   }
 }
 /* Small Desktop */
