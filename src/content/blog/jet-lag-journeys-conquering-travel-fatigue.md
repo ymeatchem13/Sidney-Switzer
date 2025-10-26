@@ -1,7 +1,7 @@
 ---
 title: "Jet Lag Journeys: Germany DTS Begins | Sidney Switzer"
 url: jet-lag-journeys
-description: Sidney Switzer arrives in Germany for YWAM DTS, battling jet lag and diving into discipleship training. Read about her first week and hearing God's voice.
+description: "Sidney Switzer arrives in Germany for YWAM DTS, battling jet lag and diving into discipleship training. Read about her first week and hearing God's voice."
 author: Sidney Switzer
 date: 2024-10-28T20:31:00.000-04:00
 tags:

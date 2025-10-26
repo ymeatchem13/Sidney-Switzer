@@ -1,7 +1,7 @@
 ---
-title: Joy on Every Face, Hope in Every Heart | Sidney Switzer
+title: "Joy on Every Face, Hope in Every Heart | Sidney Switzer"
 url: ethiopia-joy-on-every-face
-description: Sidney Switzer's first days in Ethiopia visiting ICare Ministry. Discover how this organization empowers single mothers and brings hope to 75 families.
+description: "Sidney Switzer's first days in Ethiopia visiting ICare Ministry. Discover how this organization empowers single mothers and brings hope to 75 families."
 author: Sidney Switzer
 date: 2024-12-06T10:30:00.000-05:00
 tags:
