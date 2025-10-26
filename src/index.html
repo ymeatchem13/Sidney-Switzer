@@ -162,7 +162,7 @@ eleventyNavigation:
                 <span class="cs-topper">Germany</span>
                 <h2 class="cs-title">My Latest Adventure</h2>
                 <p class="cs-content">I recently made it to Germany and learned so much about trusting God through the challenges of jet lag and time differences. Even in the small things, He's teaching me to rely on Him.</p>
-                <a href="/blog" class="cs-button-solid">Read the Full Story</a>
+                <a href="/blog/jet-lag-journeys/" class="cs-button-solid">Read the Full Story</a>
             </div>
         </div>
     </section>
@@ -182,7 +182,7 @@ eleventyNavigation:
             </div>
             <ul class="cs-card-group">
                 <li class="cs-item">
-                    <a href="" class="cs-link">
+                    <div class="cs-link">
                         <picture class="cs-picture">
                             <img class="cs-icon" src="/assets/svgs/cross1.svg" loading="lazy" decoding="async" alt="icon" width="38" height="52" aria-hidden="true">
                         </picture>
@@ -190,10 +190,10 @@ eleventyNavigation:
                         <p class="cs-item-text">
                             The moment I decided to trust God completely and follow Him wherever He leads, even when the path seemed uncertain.
                         </p>
-                    </a>
+                    </div>
                 </li>
                 <li class="cs-item">
-                    <a href="" class="cs-link">
+                    <div class="cs-link">
                         <picture class="cs-picture">
                             <img class="cs-icon" src="/assets/svgs/jesus.svg" loading="lazy" decoding="async" alt="icon" width="38" height="52" aria-hidden="true">
                         </picture>
@@ -201,10 +201,10 @@ eleventyNavigation:
                         <p class="cs-item-text">
                             From conquering jet lag in Germany to discovering God's beauty in new places, every journey teaches me something new.
                         </p>
-                    </a>
+                    </div>
                 </li>
                 <li class="cs-item">
-                    <a href="" class="cs-link">
+                    <div class="cs-link">
                         <picture class="cs-picture">
                             <img class="cs-icon" src="/assets/svgs/cross2.svg" loading="lazy" decoding="async" alt="icon" width="38" height="52" aria-hidden="true">
                         </picture>
@@ -212,7 +212,7 @@ eleventyNavigation:
                         <p class="cs-item-text">
                            Learning to trust God's timing, embrace His plans, and find joy in the unexpected turns of life's journey.
                         </p>
-                    </a>
+                    </div>
                 </li>
             </ul>
             <!-- <a href="" class="cs-button-solid">View Portfolio</a> -->
@@ -420,11 +420,16 @@ eleventyNavigation:
         <div class="cs-container">
             <div class="cs-content">
                 <h2 class="cs-title">Subscribe to Never Miss a Story</h2>
-                <a href="/contact" class="cs-button-transparent">Subscribe</a>
+                <form id="cs-form-265" name="Subscribe to Never Miss a Story" method="post" data-netlify="true" netlify-honeypot="bot-field">
+                    <label>
+                        <input required type="text" id="email" name="email" placeholder="Email Address">
+                    </label>
+                    <button id="cs-submit" class="cs-button-transparent cs-submit" type="submit">Subscribe</button>
+                  </form>
             </div>
         </div>
         <!--SVG Waves Background-->
-        <img class="cs-background" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images%2FGraphics%2Fwaves-3.svg" alt="wave graphic" width="1920" height="318" loading="lazy" decoding="async" aria-hidden="true">
+        <img class="cs-background" src="/assets/svgs/waves-3.svg" alt="wave graphic" width="1920" height="318" loading="lazy" decoding="async" aria-hidden="true">
     </section>
     
     {% include 'components/cta.html' %}

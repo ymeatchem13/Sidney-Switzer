@@ -684,6 +684,62 @@
             /* makes it act like a background image */
             object-fit: cover;
         }
+
+        #cs-form-265 {
+            width: 50%;
+
+            label {
+                font-size: (16/16rem);
+                line-height: 1.5em;
+                font-weight: 700;
+                /* 12px - 20px */
+                margin-bottom: clamp(0.75rem, 1.3em, 1.25rem);
+                color: var(--headerColor);
+                display: flex;
+                justify-content: center;
+                align-items: flex-start;
+                flex-direction: column;
+            }
+
+            .cs-full-label {
+                width: 100%;
+                max-width: none;
+            }
+
+            .cs-label-message {
+                /* 32px - 48px */
+                margin-bottom: clamp(2rem, 6.3vw, 3rem);
+            }
+
+            input {
+                font-size: (16/16rem);
+                width: 100%;
+                height: (64/16rem);
+                margin-top: (4/16rem);
+                padding-left: (20/16rem);
+                border: 1px solid #b4b2c7;
+                border-radius: (30/16rem);
+                /* prevents border & padding from affecting height */
+                box-sizing: border-box;
+                transition: border 0.3s;
+
+                &:hover {
+                    border: 1px solid var(--primary);
+                }
+            }
+
+            .cs-button-transparent {
+                width: 100%;
+                border: none;
+                border-radius: (30/16rem);
+                color: #fff !important;
+                margin: inherit;
+                background-color: #000 !important;
+                &:before {
+                    border-radius: (30/16rem);
+                }
+            }
+        }
     }
 }
 
