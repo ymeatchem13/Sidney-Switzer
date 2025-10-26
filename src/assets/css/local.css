@@ -1141,7 +1141,7 @@
     object-fit: cover;
   }
   #cta-697 #cs-form-265 {
-    width: 50%;
+    width: 100%;
   }
   #cta-697 #cs-form-265 label {
     font-size: 1rem;
@@ -1196,5 +1196,8 @@
     text-align: left;
     flex-direction: row;
     justify-content: space-between;
+  }
+  #cta-697 #cs-form-265 {
+    width: 50%;
   }
 }
